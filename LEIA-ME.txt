@@ -1,0 +1,9 @@
+ATUALIZAÇÃO DO SITE — VITORINO ANDRADE
+
+1. No GitHub, abra o repositório Vitorino-Andrade.
+2. Clique em Add file > Upload files.
+3. Extraia este ZIP no computador.
+4. Envie index.html, video-institucional.mp4, brasao-vitorino-andrade.png e a pasta assets.
+5. Confirme a substituição dos arquivos existentes e clique em Commit changes.
+
+Esta versão não contém a seção "Empresas e instituições atendidas" nem seus logotipos.
